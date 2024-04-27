@@ -1,0 +1,1 @@
+# CRNN-CTC-model-for-Amharic-Braille-text-line-image-recognition
